@@ -29,14 +29,14 @@ SpringHive exposes a single REST endpoint that receives a JSON specification des
 | Technology | Version |
 |---|---|
 | Java | 21 |
-| Spring Boot | 3.3.x |
-| Spring Cloud | 2023.0.x |
+| Spring Boot | 3.5.14 |
+| Spring Cloud | 2025.0.2 |
 | PostgreSQL | 16 |
 | MySQL | 8 |
 | MongoDB | 7 |
 | Apache Kafka | 3.7.x |
 | Redis | 7 |
-| Resilience4j | 2.x |
+| Resilience4j | 2.4.0 |
 | Flyway | 10.x |
 | Micrometer + Brave | 1.x (Zipkin) |
 | Docker base image | eclipse-temurin:21-jre-alpine |
